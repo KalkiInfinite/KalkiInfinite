@@ -45,5 +45,6 @@ You can click the Preview link to take a look at your changes.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/-Ultralytics-00FFFF?style=for-the-badge&logo=python&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
