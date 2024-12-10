@@ -2,9 +2,9 @@
 - 👀 I’m interested in AI , ML , Web Development , Data Science , Cloud Compputing and creating impactful and exciting projects.
 - 🌱 I’m currently learning Blockchain Technology , exploring the depths of it by learining on create variuos types of smart contracts and transactions. 
 - 💞️ I’m looking to collaborate on open-source projects involving data visualization and ML.
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : Find me 
+- 😄 Pronouns: Male!!!!
+- ⚡ Fun fact: No fact only fun ny
 
 <!---
 KalkiInfinite/KalkiInfinite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
