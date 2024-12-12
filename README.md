@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @KalkiInfinite
-- 👀 I’m interested in AI , ML , Web Development , Data Science , Cloud Compputing and creating impactful and exciting projects.
-- 🌱 I’m currently learning Blockchain Technology , exploring the depths of it by learining on create variuos types of smart contracts and transactions. 
-- 💞️ I’m looking to collaborate on open-source projects involving data visualization and ML.
-- 📫 How to reach me : 
-- 😄 Pronouns:
-- ⚡ Fun fact:
+ Hi, I’m Piyush Tyagi
+ I’m interested in AI , ML , Web Development , Data Science , Cloud Compputing and creating impactful and exciting projects.
+ I’m currently learning Blockchain Technology , exploring the depths of it by learning on to creating various types of smart contracts and transactions. 
+ I’m looking to collaborate on open-source projects involving data visualization and ML.
+ Have worked in ML fields mostly on Computer Vision.
+ 
 
 <!---
 KalkiInfinite/KalkiInfinite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
