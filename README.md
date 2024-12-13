@@ -19,6 +19,21 @@ You can click the Preview link to take a look at your changes.
 
 ### Tech Stack
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Python Animated">
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,4 +69,5 @@ You can click the Preview link to take a look at your changes.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalkiInfinite&layout=compact&theme=tokyonight&langs_count=6" />
 
