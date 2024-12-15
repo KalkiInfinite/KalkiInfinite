@@ -53,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalkiInfinite&layout=compact&theme=tokyonight&langs_count=6" />
 
