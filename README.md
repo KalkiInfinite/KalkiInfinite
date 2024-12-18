@@ -65,3 +65,6 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalkiInfinite&layout=compact&theme=tokyonight&langs_count=6" />
 
+## 📊 GitHub Stats
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalkiInfinite&show_icons=true&theme=dark)
+
