@@ -4,6 +4,11 @@
  I’m looking to collaborate on open-source projects involving data visualization and ML.
  Have worked in ML fields mostly on Computer Vision.
  
+## 👋 About Me
+- 🌱 I’m currently learning **Blockchain Technology** and **Smart Contracts**.
+- 💻 I enjoy working on **AI, ML, Web Development, Data Science** projects.
+- 🤝 I’m looking to collaborate on **open-source projects** related to **ML & Computer Vision**.
+- ⚡ Fun fact: I love exploring **Tech Stacks**🎮.
 
 <!---
 KalkiInfinite/KalkiInfinite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
