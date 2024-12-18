@@ -1,5 +1,5 @@
  Hi, I’m Piyush Tyagi
- I’m interested in AI , ML , Web Development , Data Science , Cloud Compputing and creating impactful and exciting projects.
+ I’m interested in AI , ML , Web Development , Data Science , Cloud Computing and creating impactful and exciting projects.
  I’m currently learning Blockchain Technology , exploring the depths of it by learning on to creating various types of smart contracts and transactions. 
  I’m looking to collaborate on open-source projects involving data visualization and ML.
  Have worked in ML fields mostly on Computer Vision.
