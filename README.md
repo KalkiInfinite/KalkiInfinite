@@ -1,14 +1,12 @@
- Hi, I’m Piyush Tyagi
- I’m interested in AI , ML , Web Development , Data Science , Cloud Computing and creating impactful and exciting projects.
- I’m currently learning Blockchain Technology , exploring the depths of it by learning on to creating various types of smart contracts and transactions. 
- I’m looking to collaborate on open-source projects involving data visualization and ML.
- Have worked in ML fields mostly on Computer Vision.
- 
-## 👋 About Me
-- 🌱 I’m currently learning **Blockchain Technology** and **Smart Contracts**.
-- 💻 I enjoy working on **AI, ML, Web Development, Data Science** projects.
-- 🤝 I’m looking to collaborate on **open-source projects** related to **ML & Computer Vision**.
-- ⚡ Fun fact: I love exploring **Tech Stacks**🎮.
+- Hi, I’m Piyush Tyagi!
+
+### 👋 About Me  
+
+- **🌱 C**urrently exploring: **Blockchain Technology** and **Smart Contracts**.  
+- **💻 I**nterests: **AI**, **ML**, **Web Development**, **Data Science**, **Cloud Computing**, and creating impactful projects.  
+- **🤝 L**ooking to collaborate on: Open-source projects in **Machine Learning**, **Data Visualization**, and **Computer Vision**.  
+- **⚡ F**un fact: I enjoy exploring new **Tech stacks** and experimenting with **Innovative tools**! 🎮  
+
 
 <!---
 KalkiInfinite/KalkiInfinite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
