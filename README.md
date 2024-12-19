@@ -14,7 +14,11 @@
 KalkiInfinite/KalkiInfinite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Pizza Ninjas](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Pizza Ninjas" width="1000" height="600">
+</div>
+
 
 
 ### Socials
