@@ -65,6 +65,8 @@ You can click the Preview link to take a look at your changes.
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/-Tesseract-5D5D5D?style=for-the-badge&logo=tesseract-ocr&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 
 
