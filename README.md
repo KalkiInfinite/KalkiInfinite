@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Socials
+### Connect through Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-tyagi-07244027a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iampiyushty/?hl=en)
