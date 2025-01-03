@@ -2,7 +2,7 @@
 
 ### 👋 About Me  
 
-- **🌱 C**urrently exploring: **Blockchain Technology** and **Smart Contracts**.  
+- **🌱 C**urrently learning and exploring: **Blockchain Technology** and **Smart Contracts**.  
 - **💻 I**nterests: **AI**, **ML**, **Web Development**, **Data Science**, **Cloud Computing**, and creating impactful projects.  
 - **🤝 L**ooking to collaborate on: Open-source projects in **Machine Learning**, **Data Science**, and **Computer Vision**.  
 - **⚡ F**un fact: I enjoy exploring new **Tech stacks** and experimenting with **Innovative tools**! 🎮  
