@@ -1,4 +1,4 @@
-- Hello, I’m Piyush Tyagi!
+- Hey there, I’m Piyush Tyagi!
 
 ### 👋 About Me  
 
