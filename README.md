@@ -1,6 +1,6 @@
 - Hey there, I’m Piyush Tyagi!!
 
-### 👋 About Me  
+### 👋 About Me..
 
 - **🌱 C**urrently learning and exploring: **Blockchain Technology** and **Smart Contracts** and **LLM**.  
 - **💻 I**nterests: **AI**, **ML**, **Web Development**, **Data Science**, **Cloud Computing**, and creating impactful projects.  
