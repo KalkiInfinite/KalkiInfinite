@@ -5,7 +5,7 @@
 - **🌱 C**urrently learning and exploring: **Blockchain Technology** and **Smart Contracts** and **LLM**.  
 - **💻 I**nterests: **AI**, **ML**, **Web Development**, **Data Science**, **Cloud Computing**, and creating impactful projects.  
 - **🤝 L**ooking to collaborate on: Open-source projects in **Machine Learning**, **Data Science**, and **Computer Vision**.  
-- **⚡ F**un fact: I enjoy exploring new **Tech stacks** and experimenting with **Innovative tools**!!
+- **⚡ F**un fact: I enjoy exploring new **Tech stacks** and experimenting with **Innovative tools**!! 
 
 
 <!---
@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Connect through Socials
+### Connect through Socials -
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-tyagi-07244027a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iampiyushty/?hl=en)
