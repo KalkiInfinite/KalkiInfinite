@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyush.tyagi@somaiya.edu)
 
 
-### Tech Stack
+### Tech Stack.
 <!--<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" alt="Python Animated">
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" />-->
 
